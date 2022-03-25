@@ -1,0 +1,9 @@
+python is an interpreted high level general purpose programming language
+its design philosophy emphasizes code readability with its use of significant indentation
+its language constructs as well as its object oriented approach aim to help programmers write clear and logical code for small and large scale projects
+python is dynamically typed and garbage collected
+it supports multiple programming paradigms including structured object oriented and functional programming
+guido van rossum began working on Python in the late 1980s as a successor to the abc programming languag
+python two introduced new features such as list comprehensions and a cycle detecting garbage collection system
+python three was released and was a major revision of the language that is not completely backward compatible
+python consistently ranks as one of the most popular programming languages
